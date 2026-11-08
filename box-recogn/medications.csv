@@ -1,0 +1,20 @@
+id,brand_name,brand_name_ar,active_ingredient,active_ingredient_ar,strength,dosage_form,package_quantity
+MED001,Doliprane,دوليبران,Paracetamol,باراسيتامول,500 mg,tablet,16 tablets
+MED002,Doliprane,دوليبران,Paracetamol,باراسيتامول,1000 mg,tablet,8 tablets
+MED003,Panadol,بانادول,Paracetamol,باراسيتامول,500 mg,tablet,24 tablets
+MED004,Panadol Extra,بانادول إكسترا,Paracetamol + Caffeine,باراسيتامول + كافيين,500 mg + 65 mg,tablet,24 tablets
+MED005,Efferalgan,إفيرالغان,Paracetamol,باراسيتامول,500 mg,effervescent tablet,16 tablets
+MED006,Efferalgan,إفيرالغان,Paracetamol,باراسيتامول,1000 mg,effervescent tablet,8 tablets
+MED007,Amoxil,أموكسيل,Amoxicillin,أموكسيسيلين,500 mg,capsule,12 capsules
+MED008,Augmentin,أوجمنتين,Amoxicillin + Clavulanic acid,أموكسيسيلين + حمض كلافولانيك,875 mg + 125 mg,tablet,14 tablets
+MED009,Augmentin,أوجمنتين,Amoxicillin + Clavulanic acid,أموكسيسيلين + حمض كلافولانيك,500 mg + 62.5 mg,powder for suspension,1 bottle
+MED010,Clamoxyl,كلاموكسيل,Amoxicillin,أموكسيسيلين,500 mg,capsule,12 capsules
+MED011,Brufen,بروفين,Ibuprofen,إيبوبروفين,400 mg,tablet,30 tablets
+MED012,Nurofen,نوروفين,Ibuprofen,إيبوبروفين,200 mg,tablet,24 tablets
+MED013,Spasfon,سباسفون,Phloroglucinol,فلوروغلوسينول,80 mg,tablet,30 tablets
+MED014,Smecta,سميكتا,Diosmectite,ديوسمكتيت,3 g,powder sachet,30 sachets
+MED015,Voltarene,فولتارين,Diclofenac sodium,ديكلوفيناك الصوديوم,50 mg,tablet,20 tablets
+MED016,Voltaren Emulgel,فولتارين إيمولجيل,Diclofenac,ديكلوفيناك,1%,gel,50 g tube
+MED017,Glucophage,غلوكوفاج,Metformin,ميتفورمين,500 mg,tablet,30 tablets
+MED018,Glucophage,غلوكوفاج,Metformin,ميتفورمين,850 mg,tablet,30 tablets
+MED019,Ventoline,فنتولين,Salbutamol,سالبوتامول,100 mcg/dose,inhaler,200 doses

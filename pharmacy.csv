@@ -1,0 +1,5 @@
+pharmacy_name,address,phone,hours,medication_name,strength,unit,stock,price_mad
+Pharmacie Atlas,"25 Boulevard Atlas, Casablanca",+212 5 22 34 56 78,"Mon-Sat 09:00-20:00; Sun closed",Doliprane,1000 mg,box,12,24.50
+Pharmacie Atlas,"25 Boulevard Atlas, Casablanca",+212 5 22 34 56 78,"Mon-Sat 09:00-20:00; Sun closed",Doliprane,500 mg,box,0,18.00
+Pharmacie Atlas,"25 Boulevard Atlas, Casablanca",+212 5 22 34 56 78,"Mon-Sat 09:00-20:00; Sun closed",Augmentin,1 g,box,4,82.00
+Pharmacie Atlas,"25 Boulevard Atlas, Casablanca",+212 5 22 34 56 78,"Mon-Sat 09:00-20:00; Sun closed",Vitamine C,1000 mg,box,8,45.00
